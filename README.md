@@ -1,7 +1,7 @@
 # 🎯 What A Face
 
 ## Basic Details  
-**Team Name:** Visionary Vigilantes 👀  
+**Team Name:** Coder Breakers
 **Team Members**  
 - **Team Lead:** Akash S Nair
 - **Member 2:** Abijith Ajith 
